@@ -2,6 +2,6 @@
 
 """ Define a Rectangle class."""
 
-class Reactangle:
+class Rectangle:
   """Represent a rectangle."""
   pass
