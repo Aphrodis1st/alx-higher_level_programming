@@ -8,7 +8,6 @@ Created: 6-Jan-2024
 Author: Aphrodis UWINEZA (Aphrodis1st)
 Size: Large
 Project: 0x08-python-more_classes
-Status: Submitted
 '''
 
 class Rectangle:
