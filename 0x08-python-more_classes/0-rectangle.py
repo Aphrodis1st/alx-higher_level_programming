@@ -1,7 +1,27 @@
-#!/usr/bin/bash/python3
+#!/usr/bin/python3
+""" empty class function that defines a Rectangle
+"""
 
-""" Define a Rectangle class."""
+'''
+File_name: 0-rectangle.py
+Created: 6-Jan-2024
+Author: Aphrodis UWINEZA (Aphrodis1st)
+Size: Large
+Project: 0x08-python-more_classes
+'''
+
 
 class Rectangle:
-	"""Represent a rectangle."""
-	pass
+    """
+    # Write an empty class Rectangle that defines a rectangle:
+    # VARIABLE(" "):
+    # rectangle(int): Simple rectangle
+    # Return: Always 0, (Success).
+    """
+
+    """ 'class rectangle' defines the class is like a blueprint or template...
+    for creating objects...
+    while the 'pass' is used as a placeholder when you don't want to add...
+    any code in a block and this is just a sample of a 2D Polygon with a ...
+    ...4-Perpendicular Sides."""
+    pass
