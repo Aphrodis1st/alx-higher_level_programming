@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" empty class function that defines a Rectangle
+""" calculates and return the area of the rectangle
 """
 
 '''
